@@ -1,6 +1,6 @@
-# Contributing to _repository-template-nosrc_
+# Contributing to CCC
 
-**Thank you for your interest in _repository-template-nosrc_. Your contributions are highly welcome.**
+**Thank you for your interest in CCC. Your contributions are highly welcome.**
 
 There are multiple ways of getting involved:
 
