@@ -6,6 +6,9 @@
 # IDE settings
 **/.settings/
 /bin
+**.iml
+.idea
 
 # OS files
 *.DS_Store
+
